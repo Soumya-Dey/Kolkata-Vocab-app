@@ -5,7 +5,7 @@ You can find all popular places differentiated in categories such as *SEE*, *EAT
 
 ## Ssreenshots
 
-<img src="Screenshot1.png" width="256">         <img src="Screenshot2.png" width="256">
+<img src="Screenshot1.png" width="256">&nbsp;   &nbsp;<img src="Screenshot2.png" width="256">
 
 ## Pre-requisites
 * Android SDK v23
