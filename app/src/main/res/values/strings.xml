@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kolkata Vocab</string>
+
+    <string name="about_kolkata">
+        Kolkata, also known as Calcutta
+        is the capital of the Indian state of West Bengal.
+        The city is widely regarded as the "cultural capital" of India,
+        and is also nicknamed the "City of Joy".
+    </string>
+
+    <string name="facts_about_kolkata">
+        1)  The second largest city in India\n
+        2)  Football hub of India\n
+        3)  Has India’s largest cricket ground!\n
+        4)  Has world’s 2nd biggest football stadium!\n
+        5)  Famous for its sweet delight Rosogolla\n
+        6)  India’s oldest metro is here!\n
+        7)  Hand-Pulled rickshaws are still present!\n
+        8)  Hosts World’s 3rd Biggest Book Fair!\n
+        9)  You can find old rail tram here!\n\n\n\n
+    </string>
+</resources>
